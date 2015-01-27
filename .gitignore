@@ -1,0 +1,7 @@
+# ignore folders #
+##################
+node_modules
+templates
+
+# ignore files #
+################
